@@ -1,0 +1,33 @@
+########### Pearson Correlation ##############
+Pearson's rho for SARS is IQ-tree_UNREST 0.9455658647348988
+Pearson's rho for SARS is GMM_MST-B -0.24717965800892985
+Pearson's rho for SARS is Maple_UNREST  0.9193600479923123
+Pearson's rho for SARS is Maple_GTR 0.9191094550054886
+Pearson's rho for SARS is Maple_JC 0.9301519352137914
+###############################################
+IQ-Tree likelihood;  -336469.827
+Optimal log-likelihood
+Model:IQ-tree_UNREST for sars, AIC = 730690
+Model:IQ-tree_UNREST for sars, BIC  = 1119560.094174067
+Model:IQ-tree_UNREST for sars, AICc  = 636671.8201715158
+###############################################
+MST-Backbone likelihood:  -1.5123e+06
+Model:GMM_MST-B for sars, AIC = 3084382
+Model:GMM_MST-B for sars, BIC  = 4370587.198460333
+Model:GMM_MST-B for sars, AICc  = 2990363.820171516
+###############################################
+Maple UNREST likelihood: -332293.6110839789
+Model:Maple_UNREST for sars, AIC = 724369.2221679578
+Model:Maple_UNREST for sars, BIC  = 1113239.3163420246
+Model:Maple_UNREST for sars, AICc  = 630351.0423394736
+###############################################
+Maple GTR likelihood: -337818.80224763945
+Model:Maple_GTR for sars, AIC = 735419.6044952789
+Model:Maple_GTR for sars, BIC  = 1012126.6751258291
+Model:Maple_GTR for sars, AICc  = 641401.4246667947
+###############################################
+Maple JC likelihood: -357416.0980594669
+Model:Maple_JC for sars, AIC = 774614.1961189338
+Model:Maple_JC for sars, BIC  = 826995.2196624506
+Model:Maple_JC for sars, AICc  = 680596.0162904497
+###############################################
